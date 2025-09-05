@@ -1,8 +1,8 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: XXX
- * Created on: Sep 2020
- * This program ...
+ * Created by: Michael Batiuk
+ * Created on: Sep 2025
+ * This program added Hello, Michael!
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Michael!')
